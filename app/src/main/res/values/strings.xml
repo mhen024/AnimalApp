@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Animal For Fun</string>
-    <string name="question">ภาพต่อไปนี้เป็นของสัตว์ชนิดได</string>
+    <string name="question">ภาพต่อไปนี้เป็นของสัตว์ชนิดใด</string>
 </resources>
